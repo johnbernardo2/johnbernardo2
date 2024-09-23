@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-
-
-
-
+🌱 I’m currently learning Algorithms and Typescript
+🔭 I’m currently working on a typescript assignment
+⚡ Fun fact: I love 🏀
 
 Say it back
 <!--
